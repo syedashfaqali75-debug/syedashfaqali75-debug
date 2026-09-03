@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi 👋, I'm Syed Ashfaq Ali
 
-<!--
-**syedashfaqali75-debug/syedashfaqali75-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Full Stack Developer | Django | React | REST API | MySQL
 
-Here are some ideas to get you started:
+I'm a Python Full Stack Developer and Computer Science graduate interested in building practical, scalable, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Python Full Stack Developer
+- 🐍 Strong interest in Python & Django
+- ⚛️ Working with React and JavaScript
+- 🔗 Building REST APIs with Django REST Framework
+- 🗄️ Working with MySQL
+- 🔥 Interested in automation and cybersecurity projects
+- 📍 Hyderabad, Telangana, India
+- 💼 Open to Work
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- React
+
+**Backend**
+- Python
+- Django
+- Django REST Framework
+
+**Database**
+- MySQL
+- JSON
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Pytest
+- GitHub Actions
+
+## 📌 Featured Project
+
+### Firewall Rule Automation Pro
+
+A Python-based firewall rule automation and management tool with:
+
+- Firewall rule creation and management
+- Rule validation
+- Add, update, delete and search functionality
+- JSON-based configuration
+- Logging
+- Automated testing with Pytest
+- Continuous Integration with GitHub Actions
+
+## 📚 Currently Improving
+
+- Advanced Python
+- Django & REST APIs
+- React
+- Backend development
+- Testing & automation
+- Git and GitHub
+
+## 🎯 Career Goal
+
+Looking for an opportunity as a **Python Full Stack Developer** where I can apply my technical skills, learn from experienced developers, and contribute to real-world projects.
+
+---
+
+⭐ Thanks for visiting my profile!
