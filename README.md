@@ -41,7 +41,7 @@ I'm a Python Full Stack Developer and Computer Science graduate interested in bu
 
 ## 📌 Featured Project
 
-### Firewall Rule Automation Pro
+### 🔥 [Firewall Rule Automation Pro](https://github.com/syedashfaqali75-debug/Firewall-Rule-Automation-Pro)
 
 A Python-based firewall rule automation and management tool with:
 
